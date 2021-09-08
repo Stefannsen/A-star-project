@@ -1,0 +1,302 @@
+
+
+A* 
+euristica banala
+
+Solutie: 
+1:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+['a' 'a' 'a' 'a' 'a']
+g: 0  h: 1
+--------------
+2:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+g: 5.0  h: 0
+--------------
+Cost: 5.0  Length: 2
+===========
+
+Maxim number of nodes: 91
+Total number of nodes: 93
+Time: 6
+
+A* 
+e1
+
+Solutie: 
+1:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+['a' 'a' 'a' 'a' 'a']
+g: 0  h: 5.0
+--------------
+2:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+g: 5.0  h: 0
+--------------
+Cost: 5.0  Length: 2
+===========
+
+Maxim number of nodes: 91
+Total number of nodes: 93
+Time: 4
+
+A* 
+e2
+
+Solutie: 
+1:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+['a' 'a' 'a' 'a' 'a']
+g: 0  h: 5.0
+--------------
+2:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+g: 5.0  h: 0
+--------------
+Cost: 5.0  Length: 2
+===========
+
+Maxim number of nodes: 91
+Total number of nodes: 93
+Time: 6
+
+A* 
+neadmisibila
+
+Solutie: 
+1:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+['a' 'a' 'a' 'a' 'a']
+g: 0  h: 1
+--------------
+2:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+g: 5.0  h: 0
+--------------
+Cost: 5.0  Length: 2
+===========
+
+Maxim number of nodes: 91
+Total number of nodes: 93
+Time: 5UCS
+Solutie: 
+1:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+['a' 'a' 'a' 'a' 'a']
+g: 0  h: 1
+--------------
+2:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+g: 5.0  h: 0
+--------------
+Cost: 5.0  Length: 2
+===========
+
+Maxim number of nodes: 92
+Total number of nodes: 93
+Time: 10
+
+IDA*
+euristica banala
+
+Solutie: 
+1:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+['a' 'a' 'a' 'a' 'a']
+g: 0  h: 1
+--------------
+2:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+g: 5.0  h: 0
+--------------
+Cost: 5.0  Length: 2
+===========
+
+Maxim number of nodes: 2890
+Total number of nodes: 5773
+Time: 27
+
+IDA*
+e1
+
+Solutie: 
+1:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+['a' 'a' 'a' 'a' 'a']
+g: 0  h: 5.0
+--------------
+2:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+g: 5.0  h: 0
+--------------
+Cost: 5.0  Length: 2
+===========
+
+Maxim number of nodes: 7
+Total number of nodes: 7
+Time: 5
+
+IDA*
+e2
+
+Solutie: 
+1:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+['a' 'a' 'a' 'a' 'a']
+g: 0  h: 5.0
+--------------
+2:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+g: 5.0  h: 0
+--------------
+Cost: 5.0  Length: 2
+===========
+
+Maxim number of nodes: 7
+Total number of nodes: 7
+Time: 3
+A*opt
+euristica banala
+
+Solutie: 
+1:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+['a' 'a' 'a' 'a' 'a']
+g: 0  h: 1
+--------------
+2:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+g: 5.0  h: 0
+--------------
+Cost: 5.0  Length: 2
+===========
+
+Maxim number of nodes: 92
+Total number of nodes: 93
+Time: 5
+A*opt
+e1
+
+Solutie: 
+1:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+['a' 'a' 'a' 'a' 'a']
+g: 0  h: 5.0
+--------------
+2:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+g: 5.0  h: 0
+--------------
+Cost: 5.0  Length: 2
+===========
+
+Maxim number of nodes: 92
+Total number of nodes: 93
+Time: 4
+A*opt
+e2
+
+Solutie: 
+1:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+['a' 'a' 'a' 'a' 'a']
+g: 0  h: 5.0
+--------------
+2:
+['s' 't' 'a' 'r' 'e']
+['i' 'n' 'i' 't' 'i']
+['a' 'l' 'a' 'c' 'a']
+['r' 'e' 'e' 's' 'i']
+['f' 'i' 'n' 'a' 'l']
+g: 5.0  h: 0
+--------------
+Cost: 5.0  Length: 2
+===========
+
+Maxim number of nodes: 92
+Total number of nodes: 93
+Time: 4

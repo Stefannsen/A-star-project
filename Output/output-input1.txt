@@ -1,0 +1,236 @@
+
+
+A* 
+euristica banala
+
+Solutie: 
+1:
+['a' 'a' 'a']
+['b' 'b' 'b']
+['c' 'c' 'c']
+g: 0  h: 1
+--------------
+2:
+['a' 'a' 'a']
+['b' 'b' 'b']
+g: 3.0  h: 0
+--------------
+Cost: 3.0  Length: 2
+===========
+
+Maxim number of nodes: 11
+Total number of nodes: 13
+Time: 3
+
+A* 
+e1
+
+Solutie: 
+1:
+['a' 'a' 'a']
+['b' 'b' 'b']
+['c' 'c' 'c']
+g: 0  h: 3.0
+--------------
+2:
+['a' 'a' 'a']
+['b' 'b' 'b']
+g: 3.0  h: 0
+--------------
+Cost: 3.0  Length: 2
+===========
+
+Maxim number of nodes: 11
+Total number of nodes: 13
+Time: 1
+
+A* 
+e2
+
+Solutie: 
+1:
+['a' 'a' 'a']
+['b' 'b' 'b']
+['c' 'c' 'c']
+g: 0  h: 3.0
+--------------
+2:
+['a' 'a' 'a']
+['b' 'b' 'b']
+g: 3.0  h: 0
+--------------
+Cost: 3.0  Length: 2
+===========
+
+Maxim number of nodes: 11
+Total number of nodes: 13
+Time: 1
+
+A* 
+neadmisibila
+
+Solutie: 
+1:
+['a' 'a' 'a']
+['b' 'b' 'b']
+['c' 'c' 'c']
+g: 0  h: 1
+--------------
+2:
+['a' 'a' 'a']
+['b' 'b' 'b']
+g: 3.0  h: 0
+--------------
+Cost: 3.0  Length: 2
+===========
+
+Maxim number of nodes: 11
+Total number of nodes: 13
+Time: 1UCS
+Solutie: 
+1:
+['a' 'a' 'a']
+['b' 'b' 'b']
+['c' 'c' 'c']
+g: 0  h: 1
+--------------
+2:
+['a' 'a' 'a']
+['b' 'b' 'b']
+g: 3.0  h: 0
+--------------
+Cost: 3.0  Length: 2
+===========
+
+Maxim number of nodes: 12
+Total number of nodes: 13
+Time: 1
+
+IDA*
+euristica banala
+
+Solutie: 
+1:
+['a' 'a' 'a']
+['b' 'b' 'b']
+['c' 'c' 'c']
+g: 0  h: 1
+--------------
+2:
+['a' 'a' 'a']
+['b' 'b' 'b']
+g: 3.0  h: 0
+--------------
+Cost: 3.0  Length: 2
+===========
+
+Maxim number of nodes: 43
+Total number of nodes: 82
+Time: 2
+
+IDA*
+e1
+
+Solutie: 
+1:
+['a' 'a' 'a']
+['b' 'b' 'b']
+['c' 'c' 'c']
+g: 0  h: 3.0
+--------------
+2:
+['a' 'a' 'a']
+['b' 'b' 'b']
+g: 3.0  h: 0
+--------------
+Cost: 3.0  Length: 2
+===========
+
+Maxim number of nodes: 4
+Total number of nodes: 4
+Time: 1
+
+IDA*
+e2
+
+Solutie: 
+1:
+['a' 'a' 'a']
+['b' 'b' 'b']
+['c' 'c' 'c']
+g: 0  h: 3.0
+--------------
+2:
+['a' 'a' 'a']
+['b' 'b' 'b']
+g: 3.0  h: 0
+--------------
+Cost: 3.0  Length: 2
+===========
+
+Maxim number of nodes: 4
+Total number of nodes: 4
+Time: 0
+A*opt
+euristica banala
+
+Solutie: 
+1:
+['a' 'a' 'a']
+['b' 'b' 'b']
+['c' 'c' 'c']
+g: 0  h: 1
+--------------
+2:
+['a' 'a' 'a']
+['b' 'b' 'b']
+g: 3.0  h: 0
+--------------
+Cost: 3.0  Length: 2
+===========
+
+Maxim number of nodes: 12
+Total number of nodes: 13
+Time: 1
+A*opt
+e1
+
+Solutie: 
+1:
+['a' 'a' 'a']
+['b' 'b' 'b']
+['c' 'c' 'c']
+g: 0  h: 3.0
+--------------
+2:
+['a' 'a' 'a']
+['b' 'b' 'b']
+g: 3.0  h: 0
+--------------
+Cost: 3.0  Length: 2
+===========
+
+Maxim number of nodes: 12
+Total number of nodes: 13
+Time: 1
+A*opt
+e2
+
+Solutie: 
+1:
+['a' 'a' 'a']
+['b' 'b' 'b']
+['c' 'c' 'c']
+g: 0  h: 3.0
+--------------
+2:
+['a' 'a' 'a']
+['b' 'b' 'b']
+g: 3.0  h: 0
+--------------
+Cost: 3.0  Length: 2
+===========
+
+Maxim number of nodes: 12
+Total number of nodes: 13
+Time: 1

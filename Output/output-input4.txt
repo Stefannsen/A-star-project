@@ -1,0 +1,312 @@
+
+
+A* 
+euristica banala
+
+Solutie: 
+1:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['a' 'i' 'o' 'm' 'f' 'a' 'i' 'f' 'a' 'a']
+['f' 'a' 'o' 'f' 'm' 'a' 'p' 'p' 'm' 'f']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 0  h: 1
+--------------
+2:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 5.0  h: 1
+--------------
+3:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+g: 9.0  h: 0
+--------------
+Cost: 9.0  Length: 3
+===========
+
+Maxim number of nodes: 5935
+Total number of nodes: 6125
+Time: 467
+
+A* 
+e1
+
+Solutie: 
+1:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['a' 'i' 'o' 'm' 'f' 'a' 'i' 'f' 'a' 'a']
+['f' 'a' 'o' 'f' 'm' 'a' 'p' 'p' 'm' 'f']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 0  h: 5.5
+--------------
+2:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 5.0  h: 1.0
+--------------
+3:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+g: 9.0  h: 0
+--------------
+Cost: 9.0  Length: 3
+===========
+
+Maxim number of nodes: 2118
+Total number of nodes: 2121
+Time: 173
+
+A* 
+e2
+
+Solutie: 
+1:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['a' 'i' 'o' 'm' 'f' 'a' 'i' 'f' 'a' 'a']
+['f' 'a' 'o' 'f' 'm' 'a' 'p' 'p' 'm' 'f']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 0  h: 5.5
+--------------
+2:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 5.0  h: 1
+--------------
+3:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+g: 9.0  h: 0
+--------------
+Cost: 9.0  Length: 3
+===========
+
+Maxim number of nodes: 2068
+Total number of nodes: 2121
+Time: 162
+
+A* 
+neadmisibila
+
+Solutie: 
+1:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['a' 'i' 'o' 'm' 'f' 'a' 'i' 'f' 'a' 'a']
+['f' 'a' 'o' 'f' 'm' 'a' 'p' 'p' 'm' 'f']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 0  h: 3
+--------------
+2:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 5.0  h: 1
+--------------
+3:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+g: 9.0  h: 0
+--------------
+Cost: 9.0  Length: 3
+===========
+
+Maxim number of nodes: 5770
+Total number of nodes: 6125
+Time: 472UCS
+Solutie: 
+1:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['a' 'i' 'o' 'm' 'f' 'a' 'i' 'f' 'a' 'a']
+['f' 'a' 'o' 'f' 'm' 'a' 'p' 'p' 'm' 'f']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 0  h: 1
+--------------
+2:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 5.0  h: 1
+--------------
+3:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+g: 9.0  h: 0
+--------------
+Cost: 9.0  Length: 3
+===========
+
+Maxim number of nodes: 5936
+Total number of nodes: 6125
+Time: 469
+
+IDA*
+euristica banala
+
+Maxim number of nodes: 149306098055058
+Total number of nodes: 298612196106149
+Time: 10011
+
+IDA*
+e1
+
+Solutie: 
+1:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['a' 'i' 'o' 'm' 'f' 'a' 'i' 'f' 'a' 'a']
+['f' 'a' 'o' 'f' 'm' 'a' 'p' 'p' 'm' 'f']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 0  h: 5.5
+--------------
+2:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 5.0  h: 1.0
+--------------
+3:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+g: 9.0  h: 0
+--------------
+Cost: 9.0  Length: 3
+===========
+
+Maxim number of nodes: 4331
+Total number of nodes: 8622
+Time: 415
+
+IDA*
+e2
+
+Solutie: 
+1:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['a' 'i' 'o' 'm' 'f' 'a' 'i' 'f' 'a' 'a']
+['f' 'a' 'o' 'f' 'm' 'a' 'p' 'p' 'm' 'f']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 0  h: 5.5
+--------------
+2:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 5.0  h: 1
+--------------
+3:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+g: 9.0  h: 0
+--------------
+Cost: 9.0  Length: 3
+===========
+
+Maxim number of nodes: 408287
+Total number of nodes: 816534
+Time: 1341
+A*opt
+euristica banala
+
+
+A*opt
+e1
+
+Solutie: 
+1:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['a' 'i' 'o' 'm' 'f' 'a' 'i' 'f' 'a' 'a']
+['f' 'a' 'o' 'f' 'm' 'a' 'p' 'p' 'm' 'f']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 0  h: 5.5
+--------------
+2:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 5.0  h: 1.0
+--------------
+3:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+g: 9.0  h: 0
+--------------
+Cost: 9.0  Length: 3
+===========
+
+Maxim number of nodes: 2112
+Total number of nodes: 2114
+Time: 1770
+A*opt
+e2
+
+Solutie: 
+1:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['a' 'i' 'o' 'm' 'f' 'a' 'i' 'f' 'a' 'a']
+['f' 'a' 'o' 'f' 'm' 'a' 'p' 'p' 'm' 'f']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 0  h: 5.5
+--------------
+2:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'a' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'i' 'a']
+g: 5.0  h: 1
+--------------
+3:
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+['f' 'n' 'i' 'o' 'a' 'n' 'f' 'i' 'n']
+['m' 'o' 'a' 'i' 'f' 'n' 'a' 'o' 'a']
+g: 9.0  h: 0
+--------------
+Cost: 9.0  Length: 3
+===========
+
+Maxim number of nodes: 2066
+Total number of nodes: 2114
+Time: 1717
